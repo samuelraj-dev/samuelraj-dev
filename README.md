@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I'm Samuel Raj. This is a ✨ _special_ ✨.**
+**I'm Samuel Raj. This is a ✨ _special_ ✨ repository.**
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelraj-dev)](https://github.com/samuelraj-dev/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelraj-dev&hide=contribs,prs)
